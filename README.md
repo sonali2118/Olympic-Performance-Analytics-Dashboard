@@ -1,4 +1,5 @@
 🏅 Olympic Performance Analytics Dashboard
+
 📊 Power BI Project
 
 Unlock powerful insights into Olympic history with this interactive Power BI dashboard, designed to visualize and analyze performances across nations, sports, genders, and individual athletes.
