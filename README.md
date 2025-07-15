@@ -1,15 +1,34 @@
-# Olympic-Performance-Analytics-Dashboard
+🏅 Olympic Performance Analytics Dashboard
+📊 Power BI Project
 
- Short Description
+Unlock powerful insights into Olympic history with this interactive Power BI dashboard, designed to visualize and analyze performances across nations, sports, genders, and individual athletes.
 
-Built an interactive Olympic data dashboard in Power BI to visualize and analyze over 39,000 medals and 135,000 athletes across countries, sports, and age groups.
+🚀 Project Overview
+This dashboard explores over 39,000 medals and 135,000 athletes from Olympic history, offering a dynamic and comprehensive view of performance analytics.
 
-Applied data modeling, DAX measures, and slicers to enable deep-dive analysis on medal distribution by country, gender, sport, and athlete performance.
+🔍 Key Highlights:
+Interactive medal analysis by country, gender, and sport.
 
-Transformed raw data into actionable insights using KPI cards, maps, and bar charts, highlighting top countries, sports, and athletes with dynamic filtering.
+Data modeling and custom DAX measures to drive insights.
 
-Tool
+Slicers & filters for personalized deep dives.
 
-Power BI
+KPI cards, bar charts, and maps to showcase top-performing countries and athletes.
+
+Seamless data transformation from raw datasets to actionable visual narratives.
+
+🛠️ Tools & Technologies
+Power BI: Data visualization 
+
+📈 Use Case
+Great for:
+
+Exploring historical Olympic trends
+
+Identifying top-performing countries and sports
+
+Gender-based performance analytics
+
+Showcasing Power BI capabilities in data storytelling
 
 
